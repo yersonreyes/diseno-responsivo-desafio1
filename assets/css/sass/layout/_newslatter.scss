@@ -1,0 +1,32 @@
+.newslatter {
+  background: $color-smoky-black;
+  color: $color-white;
+  position: relative;
+}
+
+.principal {
+  width: 85%;
+
+  input {
+    border-radius: 0;
+  }
+}
+
+.secundario {
+  background: $color-white;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+
+  p {
+    margin: 0;
+    font-size: $font-xl;
+    color: $color-smoky-black;
+    padding: 0.5rem;
+    writing-mode: vertical-lr;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
+}

@@ -1,0 +1,18 @@
+@import "vendors/scss/bootstrap.scss";
+@import "abstracts/variables";
+@import "abstracts/mixins";
+
+@import "base/reset";
+
+@import "components/navbar";
+@import "components/buttons";
+
+@import "layout/header";
+@import "layout/description";
+@import "layout/hero";
+@import "layout/newslatter";
+@import "layout/contenido-principal";
+
+@import "pages/about";
+@import "pages/footer";
+@import "pages/home";
