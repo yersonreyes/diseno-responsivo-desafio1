@@ -9760,7 +9760,7 @@ body {
 
 .hero {
   height: calc(100vh - 60px);
-  background-image: url(/assets/img/imagen1.png);
+  background-image: url("../img/imagen1.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
